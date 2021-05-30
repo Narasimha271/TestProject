@@ -1,16 +1,15 @@
+//Scenario:
+//Open a Browser (write the generic code such that by changing the parameter browser can be changed.)
+//Navigate to https://Amazon.co.uk website.
+//Write a method to find the count (number of) links on the homepage of Amazon.
+//Write another method to print link text and URLs of all the links on the page of Amazon.
+
 package amazon_Project;
-
-
-
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.List;
-
-
-
-
 
 public class Amazon_ {
 	ChromeDriver driver;
