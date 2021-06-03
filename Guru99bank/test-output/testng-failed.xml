@@ -5,20 +5,7 @@
     <classes>
       <class name="Manager.NewCustomer">
         <methods>
-          <include name="NC20"/>
-          <include name="NC24"/>
-          <include name="NC21"/>
-          <include name="NC23"/>
-          <include name="NC17"/>
-          <include name="NC4"/>
-          <include name="NC11"/>
           <include name="NC29"/>
-          <include name="NC15"/>
-          <include name="NC26"/>
-          <include name="NC6"/>
-          <include name="NC5"/>
-          <include name="deviopenbrs"/>
-          <include name="closebrowser"/>
         </methods>
       </class> <!-- Manager.NewCustomer -->
     </classes>
